@@ -1,0 +1,8 @@
+{
+    "hpath": "$EPC",
+    "env": [
+        {
+        "EPC": "C:/Users/Jasmin/Documents/houdini19.5/packages/EP/"
+        }
+]
+}
